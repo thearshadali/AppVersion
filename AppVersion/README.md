@@ -1,3 +1,3 @@
 # AppVersion
 
-A description of this package.
+AppVersion allows you to get the iOS app version.
