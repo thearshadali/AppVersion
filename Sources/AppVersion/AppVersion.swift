@@ -1,8 +1,5 @@
 
-
-
-import UIKit
-
+import Foundation
 
 public struct AppVersion {
     
